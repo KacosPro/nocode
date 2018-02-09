@@ -1,53 +1,57 @@
-# No Code
+# Sin código
+__Soporte para el idioma español de [nocode][nocode], de [Kelsey Hightower][kelseyhightower]__
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+Sin código es la mejor manera de escribir aplicaciones confiables y seguras. No escribas nada; despliega en ningún lugar.
 
-## Getting Started
+## Empezando
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+Empieza por no escribir ningún código.
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+Esta es solo una aplicación de ejemplo, pero imagina que hace lo que tu quieres. Agregar nuevas características es también fácil:
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+Las posibilidades son infinitas.
+
+### Corriendo la aplicación
+
+Ahora que no has hecho nada es tiempo de correr tu aplicación:
 
 ```
 
 ```
 
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+Sip. Eso es todo. Deberías ver el siguiente mensaje:
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+### Desplegando
+
+Mientras no has hecho nada todavía es tiempo de desplegar tu aplicación. Corriendo el siguiente comando puedes desplegar tu aplicación en absolutamente ningún lugar.
 
 ```
 
 ```
 
-I know right?
+Es así de simple. Y cuando es hora de escalar la aplicación, todo lo que tienes que ahcer es:
 
-## Contributing
+```
 
-You don't.
+```
+
+Lo sé, ¿verdad?
+
+## Contribuyendo
+
+No lo haces.
+
+   [nocode]: https://github.com/kelseyhightower/nocode
+   [kelseyhightower]: https://github.com/kelseyhightower
